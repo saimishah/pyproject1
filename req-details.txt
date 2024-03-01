@@ -1,0 +1,5 @@
+# NumPy
+pip install numpy 
+Installing collected packages: numpy
+
+# ..
